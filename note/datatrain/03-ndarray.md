@@ -1,5 +1,31 @@
 # ndarray 数组的创建和变化
 
+### ndarray对象的属性
+
+![sp190612_130206](F:/PycharmProjects/datatrain/note/datatrain/images/sp190612_130206.png)
+
+### ndarray 数组的元素类型
+
+![sp190612_130515](F:/PycharmProjects/datatrain/note/datatrain/images/sp190612_130515.png)
+
+![sp190612_130528](F:/PycharmProjects/datatrain/note/datatrain/images/sp190612_130528.png)
+
+![sp190612_130539](F:/PycharmProjects/datatrain/note/datatrain/images/sp190612_130539.png)
+
+ndarray 为什么要支持这么多中元素类型？
+
+对比：Python语法仅支持整数、浮点数和复数3种类型
+
+1. 科学计算设计数据较多，对存储和性能都有较高要求
+2. 对元素类型精细定义，有助于Numpy合理使用存储空间并优化
+3. 对元素类型精细化定义，有助于程序员对程序规模有合理评估
+
+#### 非同质的ndarray对象
+
+非同质ndarry对象无法有效发挥numpy优势
+
+
+
 ### ndarray 数组的创建
 
 - 从python中的列表、元组等类型创建
