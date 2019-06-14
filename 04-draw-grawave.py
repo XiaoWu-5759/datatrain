@@ -7,7 +7,7 @@ from scipy.io import wavfile
 rate_h, hstrain = wavfile.read(r"H1_Strain.wav", "rb")
 rate_l, lstrain = wavfile.read(r"L1_Strain.wav", "rb")
 # reftime, ref_H1 = np.genfromtxt('GW150914_4_NR_waveform_template.txt').transpose()
-# 回形成两个举证
+# 会形成两个矩阵
 reftime, ref_H1 = np.genfromtxt('wf_template.txt').transpose()  # 使用python123.io下载文件
 
 # 求倒数，得到波形的时间
