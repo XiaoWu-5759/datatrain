@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22c14462-fd80-41b2-95db-5ecd0d2802c1" name="Default" comment="2019.06.13 绘制引力波图">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-draw-grawave.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-draw-grawave.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/datatrain/03-ndarray.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/datatrain/03-ndarray.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note/datatrain/07-matplotlib-function.md" beforeDir="false" afterPath="$PROJECT_DIR$/note/datatrain/07-matplotlib-function.md" afterDir="false" />
-    </list>
+    <list default="true" id="22c14462-fd80-41b2-95db-5ecd0d2802c1" name="Default" comment="2019.06.14下  数据分析课程完结" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +95,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webtrain/mysite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
@@ -299,7 +294,7 @@
       <workItem from="1560492509401" duration="159000" />
       <workItem from="1560492704037" duration="706000" />
       <workItem from="1560494871716" duration="469000" />
-      <workItem from="1560496303882" duration="1627000" />
+      <workItem from="1560496303882" duration="1861000" />
     </task>
     <task id="LOCAL-00001" summary="2019.06.12 继续学习课程">
       <created>1560307252932</created>
@@ -329,11 +324,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560414536276</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2019.06.14下  数据分析课程完结">
+      <created>1560502641055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1560502641055</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41221000" />
+    <option name="totallyTimeSpent" value="41455000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -419,7 +421,8 @@
     <MESSAGE value="2019.06.12 numpy基本课程" />
     <MESSAGE value="2019.06.13 matplotlib基本课程" />
     <MESSAGE value="2019.06.13 绘制引力波图" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.06.13 绘制引力波图" />
+    <MESSAGE value="2019.06.14下  数据分析课程完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.06.14下  数据分析课程完结" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/note/datatrain/01 learning-what.md" />
