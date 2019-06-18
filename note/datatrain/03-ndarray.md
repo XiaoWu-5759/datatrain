@@ -2,15 +2,15 @@
 
 ### ndarray对象的属性
 
-![sp190612_130206](F:/PycharmProjects/datatrain/note/datatrain/images/sp190612_130206.png)
+![sp190612_130206](./images/sp190612_130206.png)
 
 ### ndarray 数组的元素类型
 
-![sp190612_130515](F:/PycharmProjects/datatrain/note/datatrain/images/sp190612_130515.png)
+![sp190612_130515](./images/sp190612_130515.png)
 
-![sp190612_130528](F:/PycharmProjects/datatrain/note/datatrain/images/sp190612_130528.png)
+![sp190612_130528](./images/sp190612_130528.png)
 
-![sp190612_130539](F:/PycharmProjects/datatrain/note/datatrain/images/sp190612_130539.png)
+![sp190612_130539](./images/sp190612_130539.png)
 
 ndarray 为什么要支持这么多中元素类型？
 
@@ -34,11 +34,11 @@ ndarray 为什么要支持这么多中元素类型？
 
 - 使用numpy中函数创建，如：arange,ones,zeros等
 
-![sp190612_132157](.\images\sp190612_132157.png)
+![sp190612_132157](./images/sp190612_132157.png)
 
-![sp190612_132633](.\images\sp190612_132633.png)
+![sp190612_132633](./images/sp190612_132633.png)
 
-![sp190612_132745](.\images\sp190612_132745.png)
+![sp190612_132745](./images/sp190612_132745.png)
 
 `linspace,endpoint=false`，最后一个元素是否在数组中
 
@@ -55,7 +55,7 @@ ndarray 为什么要支持这么多中元素类型？
 
 #### 维度变换
 
-![sp190612_133253](.\images\sp190612_133253.png)
+![sp190612_133253](./images/sp190612_133253.png)
 
 `.reshape`生成了一个新数组
 
@@ -101,13 +101,13 @@ ndarray 为什么要支持这么多中元素类型？
 
 #### numpy的一元函数
 
-![sp190612_135402](.\images\sp190612_135402.png)
+![sp190612_135402](./images/sp190612_135402.png)
 
-![sp190612_135555](.\images\sp190612_135555.png)
+![sp190612_135555](./images/sp190612_135555.png)
 
 
 
 #### numpy的二元函数
 
-![sp190612_135802](.\images\sp190612_135802.png)
+![sp190612_135802](./images/sp190612_135802.png)
 

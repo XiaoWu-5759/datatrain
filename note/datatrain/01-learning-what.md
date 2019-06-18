@@ -10,7 +10,7 @@ Projects
 #### 传递的思想：
 如何理解一组数据表达得含义
 如何获取，储存数据
-![9159829-9cfa7091db7c6067](.\images\9159829-9cfa7091db7c6067.png)
+![9159829-9cfa7091db7c6067](./images/9159829-9cfa7091db7c6067.png)
 
 理解和掌握以下tool
 conda spyder IPython
@@ -18,19 +18,19 @@ anaconda pycharm
 IDLE（交互式和文件式）
 
 #### 常用的Python IDE工具
-![9159829-4ab7e647a8748705](.\images\9159829-4ab7e647a8748705.png)
+![9159829-4ab7e647a8748705](./images/9159829-4ab7e647a8748705.png)
 
 
 
 ### spyder 是一个有效地科学计算IDE
 
-![9159829-5120bb46e87dcf21](.\images\9159829-5120bb46e87dcf21.png)
+![9159829-5120bb46e87dcf21](./images/9159829-5120bb46e87dcf21.png)
 
 spyder编辑器随着整个环境变化而变化
 
 设置
 
-![9159829-3cd4504f2dac16a2](.\images\9159829-3cd4504f2dac16a2.png)
+![9159829-3cd4504f2dac16a2](./images/9159829-3cd4504f2dac16a2.png)
 
 ### ipython 是一个交互式的ide
 ipython有很多使用方法
@@ -53,7 +53,7 @@ ipython有很多使用方法
 %time statement  给出代码的执行时间，statement表示一段代码
 %timeit statement  多次执行代码，计算综合平均执行时间
 
-![9159829-9a703de41e372821](.\images\9159829-9a703de41e372821.png)
+![9159829-9a703de41e372821](./images/9159829-9a703de41e372821.png)
 
 
 
