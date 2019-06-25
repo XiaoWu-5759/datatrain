@@ -2,6 +2,16 @@ HELP.md
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
+# file
+*.wav
+*.jpg
+*.png
+*.txt
+
+## document ##
+*.xlx
+*.xlxs
+
 ### STS ###
 .apt_generated
 .classpath
